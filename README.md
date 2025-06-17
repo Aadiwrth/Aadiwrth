@@ -1,7 +1,7 @@
  <h2><img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/cat.gif" width="35px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/Hi.gif" width="30px"></h2>
 
 
-<img align='right' src='./Assets/_.gif' width='150"'>
+<img align='right' src='https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/_.gif' width='150"'>
 I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 12th. I love to explore and learn about new things.
 
 ## About me
