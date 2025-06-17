@@ -34,4 +34,4 @@ I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 1
 
 # Buy me a Coffee ☕:
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/deepu468) 
-  Esewa<img align="left" alt="Git" width="26px" src="https://ibb.co/bRqzc7Kk" style="padding-right:10px;" /> <b>9703633814</b>
+  <a href="https://ibb.co/bRqzc7Kk"><img src="https://i.ibb.co/bRqzc7Kk/esewa-icon-large.png" alt="esewa-icon-large" border="0"></a><b>9703633814</b>
