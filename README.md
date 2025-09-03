@@ -38,8 +38,12 @@ I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 1
 ![Snake dark](https://github.com/Aadiwrth/Aadiwrth/blob/output/github-snake-dark.svg)
 
 
+
+<div align = "center">
+
 # Buy me a Coffee ☕ / Support me ❤️:
 
 [![Ko-fi](https://img.shields.io/badge/Ko--fi-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/wokuu)
 [![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/wokuu)
 [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/deepu468)
+</div>
