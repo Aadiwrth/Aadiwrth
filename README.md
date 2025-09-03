@@ -33,7 +33,7 @@ I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 1
 ![](https://nirzak-streak-stats.vercel.app/?user=Aadiwrth&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiwrth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# Contribution Snake
+# 🐍 Contribution Snake
 
 ![Snake dark](https://github.com/Aadiwrth/Aadiwrth/blob/output/github-snake-dark.svg)
 
