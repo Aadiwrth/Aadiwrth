@@ -1,6 +1,5 @@
  <h2><img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/cat.gif" width="35px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/Hi.gif" width="30px"></h2>
 
-
 <img align='right' src='https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/_.gif' width='150"'>
 I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 12th. I love to explore and learn about new things.
 
@@ -27,18 +26,26 @@ I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 1
 <br />
 <br />
 
+<div align = "center">
+ 
 ---
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aadiwrth&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aadiwrth&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiwrth&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Aadiwrth&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Aadiwrth&theme=highcontrast&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiwrth&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+# 📊 Activity Graph
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiwrth&theme=high-contrast&area=true&hide_border=true" alt="GitHub Activity Graph">
+</div>
+
 
 # 🐍 Contribution Snake
 
 ![Snake dark](https://github.com/Aadiwrth/Aadiwrth/blob/output/github-snake-dark.svg)
 
 
-
+</div>
 <div align = "center">
 
 # Buy me a Coffee ☕ / Support me ❤️:
