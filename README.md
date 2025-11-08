@@ -5,7 +5,7 @@ I am Aaditya Chaudhary :>. I am from Jhapa, Nepal and currently completed my 12t
 
 ## About me
 
-- I’m currently learning Python and focusing on improving my programming fundamentals.
+- I’m currently learning golang and focusing on improving my programming fundamentals.
 - Restarted my journey with a fresh mindset after previously relying heavily on AI—now building things from the ground up.
 - Passionate about blending creativity with technology, always exploring new ideas and tools.
 - Outside of code, I enjoy drawing, playing guitar, and practicing calisthenics to stay active and inspired.
