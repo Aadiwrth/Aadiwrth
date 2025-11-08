@@ -1,15 +1,15 @@
  <h2><img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/cat.gif" width="35px"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚌𝚘𝚍𝚎𝚛𝚜/>! <img src="https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/Hi.gif" width="30px"></h2>
 
 <img align='right' src='https://raw.githubusercontent.com/Aadiwrth/Aadiwrth/refs/heads/main/Assets/_.gif' width='150"'>
-I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 12th. I love to explore and learn about new things.
+I am Aaditya Chaudhary :>. I am from Jhapa, Nepal and currently completed my 12th. I love to explore and learn about new things.
 
 ## About me
 
-- 🌱 I’m currently learning Python and focusing on improving my programming fundamentals.
-- 🤖 Restarted my journey with a fresh mindset after previously relying heavily on AI—now building things from the ground up.
-- 🛠️ Passionate about blending creativity with technology, always exploring new ideas and tools.
-- 🎸 Outside of code, I enjoy drawing, playing guitar, and practicing calisthenics to stay active and inspired.
-- ⚡ Fun fact: I believe consistency beats motivation—and I'm here to grow one project at a time.
+- I’m currently learning Python and focusing on improving my programming fundamentals.
+- Restarted my journey with a fresh mindset after previously relying heavily on AI—now building things from the ground up.
+- Passionate about blending creativity with technology, always exploring new ideas and tools.
+- Outside of code, I enjoy drawing, playing guitar, and practicing calisthenics to stay active and inspired.
+- Fun fact: I believe consistency beats motivation—and I'm here to grow one project at a time.
 
 
 ### Languages and Tools:
@@ -34,13 +34,13 @@ I am Aaditya Chaudhary 😃. I am from Jhapa, Nepal and currently completed my 1
 ![](https://nirzak-streak-stats.vercel.app/?user=Aadiwrth&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aadiwrth&theme=highcontrast&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-# 📊 Activity Graph
+# Activity Graph
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aadiwrth&theme=high-contrast&area=true&hide_border=true" alt="GitHub Activity Graph">
 </div>
 
 
-# 🐍 Contribution Snake
+# Contribution Snake
 
 ![Snake dark](https://github.com/Aadiwrth/Aadiwrth/blob/output/github-snake-dark.svg)
 
